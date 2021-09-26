@@ -1,0 +1,8 @@
+Here is a list of commands!
+```this.say [message]``` i repeat after you
+```this.poll(1,2)```;```this.poll(1,2,3)```;```this.poll(1,2,3,4)```;```this.poll(y,n)``` I create a poll made out of recation based on the type you want
+```this.reddit [subject]``` I show you a random post from that subreddit. NSFW is not allowed and won't show up!
+```this.anon [message]``` I send you message as an ANONYMOUS one 🍀
+*made by WutWutDiriDiriDam#1791
+
+HMU on discord for code.
